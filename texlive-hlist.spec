@@ -1,6 +1,6 @@
 Name:		texlive-hlist
 Version:	44983
-Release:	1
+Release:	2
 Summary:	Horizontal and columned lists
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hlist
