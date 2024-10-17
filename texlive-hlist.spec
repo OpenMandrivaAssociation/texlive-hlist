@@ -3,7 +3,7 @@ Version:	44983
 Release:	2
 Summary:	Horizontal and columned lists
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hlist
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/hlist
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hlist.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hlist.doc.r%{version}.tar.xz
